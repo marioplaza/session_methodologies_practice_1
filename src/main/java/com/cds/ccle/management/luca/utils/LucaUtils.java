@@ -1,3 +1,7 @@
+/* Comentario añadidos por Mario Nogueira
+para la práctica con Git */
+
+
 package com.cds.ccle.management.luca.utils;
 
 import java.time.Duration;
